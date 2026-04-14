@@ -96,7 +96,7 @@ Introduce a dedicated accessibility settings screen with a Colorblind Mode toggl
 
 The complete 5-page case study report including all sections, analysis, and mockup references is available in:
 
-📄 [Simon*Emmanuel*-\_UX Case Study-Task-3.pdf](Simon_Emmanuel_-_UX%20Case%20Study-Task-3.pdf)
+📄 [`Simon_Emmanuel_-_UX Case Study-Task-3.pdf`](Simon_Emmanuel_-_UX%20Case%20Study-Task-3.pdf)
 
 ---
 
