@@ -150,7 +150,7 @@ The complete 2-page design write-up covering design system, screen architecture,
 ## 🔗 Links
 
 - **Prototype:** <https://bit.ly/4msOkVs>
-- **LinkedIn Post:** _(to be added)_
+- **LinkedIn Post:** <https://www.linkedin.com/posts/simon-emmanuel_uiuxdesign-figma-codealpha-activity-7449497895566884864-BgN8>
 
 ---
 

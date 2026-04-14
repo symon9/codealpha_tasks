@@ -59,6 +59,8 @@ A complete high-fidelity clickable prototype for **Cineora** a Netflix-style mob
 
 🔗 **Prototype Link:** <https://bit.ly/4msOkVs>
 
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/simon-emmanuel_uiuxdesign-figma-codealpha-activity-7449497895566884864-BgN8>
+
 ---
 
 ## 🛠 Tools Used
